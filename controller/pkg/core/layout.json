@@ -1,0 +1,95 @@
+[
+  {
+    "width": 26,
+    "height": 50,
+    "top": 0,
+    "left": 0,
+    "monitor": 2
+  },
+  {
+    "width": 26,
+    "height": 50,
+    "bottom": 100,
+    "left": 0,
+    "monitor": 2
+  },
+
+  {
+    "width": 22,
+    "height": 100,
+    "top": 0,
+    "left": 0,
+    "monitor": 2
+  },
+  {
+    "width": 22,
+    "height": 100,
+    "top": 0,
+    "left": 22,
+    "monitor": 2
+  },
+
+  {
+    "left": 12,
+    "height": 100,
+    "top": 0,
+    "right": 100,
+    "monitor": 2
+  },
+  {
+    "left": 22,
+    "height": 100,
+    "top": 0,
+    "right": 100,
+    "monitor": 2
+  },
+  {
+    "left": 24,
+    "height": 100,
+    "top": 0,
+    "right": 100,
+    "monitor": 2
+  },
+  {
+    "left": 44,
+    "height": 100,
+    "top": 0,
+    "right": 100,
+    "monitor": 2
+  },
+  {
+    "left": 50,
+    "height": 100,
+    "top": 0,
+    "right": 100,
+    "monitor": 2
+  },
+  {
+    "width": 22,
+    "height": 100,
+    "top": 0,
+    "right": 100,
+    "monitor": 2
+  },
+  {
+    "width": 50,
+    "height": 100,
+    "left": 0,
+    "top": 0,
+    "monitor": 1
+  },
+  {
+    "width": 50,
+    "height": 100,
+    "left": 50,
+    "top": 0,
+    "monitor": 1
+  },
+  {
+    "width": 50,
+    "height": 100,
+    "top": 0,
+    "left": 0,
+    "monitor": 2
+  }
+]

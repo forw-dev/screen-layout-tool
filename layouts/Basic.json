@@ -1,0 +1,49 @@
+{
+    "author": "Tyx",
+    "version": "1.0",
+    "description": "Building layout solution. There are two file management areas and one browsing area. Only the main display is involved.",
+    "positions": [
+        {
+            "left": 0,
+            "width": 20,
+            "top": 0,
+            "height": 100,
+            "monitor": 0
+        },
+        {
+            "left": 20,
+            "width": 20,
+            "top": 0,
+            "height": 100,
+            "monitor": 0
+        },
+        {
+            "left": 0,
+            "width": 40,
+            "top": 0,
+            "height": 50,
+            "monitor": 0
+        },
+        {
+            "left": 0,
+            "width": 40,
+            "top": 50,
+            "height": 50,
+            "monitor": 0
+        },
+        {
+            "left": 0,
+            "width": 40,
+            "top": 0,
+            "height": 100,
+            "monitor": 0
+        },
+        {
+            "left": 40,
+            "width": 60,
+            "top": 0,
+            "height": 100,
+            "monitor": 0
+        }
+    ]
+}

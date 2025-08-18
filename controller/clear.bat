@@ -1,0 +1,2 @@
+go clean -modcache
+pause

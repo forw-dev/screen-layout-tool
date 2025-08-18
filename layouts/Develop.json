@@ -1,0 +1,98 @@
+{
+    "author": "Tyx",
+    "version": "1.0",
+    "description": "Building layout solution. For development environment. For laptop + main monitor. With the goal of maximizing screen utilization, it is convenient to switch and compare between windows. ",
+    "positions": [
+        {
+            "left": 0,
+            "width": 22,
+            "top": 0,
+            "height": 88,
+            "monitor": 2
+        },
+        {
+            "left": 3,
+            "width": 22,
+            "top": 6,
+            "height": 88,
+            "monitor": 2
+        },
+        {
+            "left": 6,
+            "width": 22,
+            "top": 12,
+            "height": 88,
+            "monitor": 2
+        },
+        {
+            "left": 0,
+            "width": 50,
+            "top": 0,
+            "height": 100,
+            "monitor": 2
+        },
+        {
+            "left": 3,
+            "width": 97,
+            "top": 0,
+            "height": 100,
+            "monitor": 2
+        },
+        {
+            "left": 6,
+            "width": 94,
+            "top": 0,
+            "height": 100,
+            "monitor": 2
+        },
+        {
+            "left": 9,
+            "width": 91,
+            "top": 0,
+            "height": 100,
+            "monitor": 2
+        },
+        {
+            "left": 22,
+            "width": 78,
+            "top": 0,
+            "height": 100,
+            "monitor": 2
+        },
+        {
+            "left": 40,
+            "width": 60,
+            "top": 0,
+            "height": 100,
+            "monitor": 2
+        },
+        {
+            "left": 50,
+            "width": 50,
+            "top": 0,
+            "height": 100,
+            "monitor": 2
+        },
+        {
+            "left": 0,
+            "width": 94,
+            "top": 0,
+            "height": 90,
+            "monitor": 1
+        },
+        {
+            "left": 3,
+            "width": 94,
+            "top": 5,
+            "height": 90,
+            "monitor": 1
+        },
+        {
+            "left": 6,
+            "width": 94,
+            "top": 10,
+            "height": 90,
+            "monitor": 1
+        }
+    ]
+}
