@@ -1,6 +1,6 @@
 # Screen Layout Tool
 
-Screen Layout Tool is a software to help you organize and arrange windows on your computer screen, especially when using multiple monitors or working with multiple applications.
+Screen Layout Tool is a open source software to help you organize and arrange windows on your computer screen, especially when using multiple monitors or working with multiple applications.
 
 Screen Layout Tool committed to making multi-screen window management more efficient, precise and smooth.
 
