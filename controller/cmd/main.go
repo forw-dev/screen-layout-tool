@@ -18,13 +18,13 @@ var rootCmd = &cobra.Command{
 
 func main() {
 	// appDataDir
-	programDataDirPath := os.Getenv("ProgramData")
-	if programDataDirPath == "" {
-		fmt.Println("ProgramData environment variable not found")
+	cacheDir, err := os.UserCacheDir()
+	if err != nil {
+		fmt.Println("get user cache dir failed: ", err)
 		return
 	}
-	appDataDir := filepath.Join(programDataDirPath, "screen-layout-tool-controller")
-	err := os.MkdirAll(appDataDir, 0755)
+	appDataDir := filepath.Join(cacheDir, "screen-layout-tool-controller")
+	err = os.MkdirAll(appDataDir, 0755)
 	if err != nil {
 		fmt.Println("create app data dir failed: ", err)
 		return
