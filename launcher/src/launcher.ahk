@@ -162,7 +162,7 @@ OnLanguageZhClicked(*) {
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 关于 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 OnAboutClicked(*) {
-    TrayTip("v0.19.12`njialo.com", "Screen Layout Tool", 17)
+    TrayTip("v0.20.12`njialo.com", "Screen Layout Tool", 17)
 }
 
 OnHelpClicked(*) {
