@@ -5,7 +5,7 @@ Screen Layout Tool is a open source software to help you organize and arrange wi
 Screen Layout Tool committed to making multi-screen window management more efficient, precise and smooth.
 
 <video controls="" muted="" autoplay="" loop="" width="100%">
-    <source src="https://jialo.com/videos/demo.mp4" type="video/mp4">
+    <source src="https://forw.cc/screen-layout-tool/videos/demo.mp4" type="video/mp4">
 </video>
 
 ## 💎 It is easy to use
@@ -38,7 +38,7 @@ Use the hotkeys to switch the position of the current window in the layout solut
 
 You can import layout solutions shared by others.
 
-- Download your favorite layout file from [official website](https://jialo.com/layouts.php) or [official community](https://www.reddit.com/r/ScreenLayoutTool/).
+- Download your favorite layout file from [official website](https://forw.cc/screen-layout-tool/layouts.php) or [official community](https://www.reddit.com/r/ScreenLayoutTool/).
 - Click "Open Layout Folder" in the right-click menu of the tray icon to put the layout file in it.
 - Click "Reload", the layout solution will appear in "Layout" menu.
 
@@ -91,5 +91,3 @@ You can also design your own screen layout solution using the `.json` file.
 - 1-3 must choose 2.
 - 3-4 must choose 2.
 - 7 is optional, the default is 0.
-
-***For more information please visit the official website [jialo.com](https://jialo.com).***

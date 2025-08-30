@@ -117,11 +117,6 @@ UpdateAutoStartupShortcut() {
 }
 
 ; --- menu event -------------------------------------------
-OnSupportUsClicked(*) {
-    Language := IniRead(ConfigFilePath, "Running", "Language", "en")
-    Run("https://jialo.com/support-us.php")
-}
-
 OnLayoutClicked(ItemName, *) {
     IniWrite(ItemName, ConfigFilePath, "Running", "Layout")
     UpdateMenu()
@@ -133,7 +128,7 @@ OnOpenLayoutFolderClicked(*) {
 
 OnGetLayoutClicked(*) {
     Language := IniRead(ConfigFilePath, "Running", "Language", "en")
-    Run("https://jialo.com/layouts.php")
+    Run("https://forw.cc/screen-layout-tool/layouts.php")
 }
 
 OnAutoStartClicked(*) {
@@ -162,12 +157,12 @@ OnLanguageZhClicked(*) {
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 关于 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 OnAboutClicked(*) {
-    TrayTip("v0.20.12`njialo.com", "Screen Layout Tool", 17)
+    TrayTip("v0.20.12`nforw.cc", "Screen Layout Tool", 17)
 }
 
 OnHelpClicked(*) {
     Language := IniRead(ConfigFilePath, "Running", "Language", "en")
-    Run("https://jialo.com/get-help.php")
+    Run("https://forw.cc/screen-layout-tool/get-help.md")
 }
 
 OnReloadClicked(*) {
