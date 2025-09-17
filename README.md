@@ -38,7 +38,7 @@ Use the hotkeys to switch the position of the current window in the layout solut
 
 You can import layout solutions shared by others.
 
-- Download your favorite layout file from [official website](https://forw.cc/screen-layout-tool/layouts/) or [official community](https://www.reddit.com/r/ScreenLayoutTool/).
+- Download your favorite layout file from [official website](https://forw.cc/screen-layout-tool/) or [official community](https://www.reddit.com/r/ScreenLayoutTool/).
 - Click "Open Layout Folder" in the right-click menu of the tray icon to put the layout file in it.
 - Click "Reload", the layout solution will appear in "Layout" menu.
 
