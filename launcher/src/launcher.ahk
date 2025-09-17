@@ -128,7 +128,7 @@ OnOpenLayoutFolderClicked(*) {
 
 OnGetLayoutClicked(*) {
     Language := IniRead(ConfigFilePath, "Running", "Language", "en")
-    Run("https://forw.cc/screen-layout-tool/layouts.php")
+    Run("https://forw.cc/screen-layout-tool/layouts/")
 }
 
 OnAutoStartClicked(*) {
@@ -157,7 +157,7 @@ OnLanguageZhClicked(*) {
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 关于 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 OnAboutClicked(*) {
-    TrayTip("v0.20.12`nforw.cc", "Screen Layout Tool", 17)
+    TrayTip("v0.21.20`nforw.cc", "Screen Layout Tool", 17)
 }
 
 OnHelpClicked(*) {
